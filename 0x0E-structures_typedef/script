@@ -1,4 +1,5 @@
-
+mod u+x *
+echo This is my readme>README.md
 git add .
 git commit -m 'done'
 git push
