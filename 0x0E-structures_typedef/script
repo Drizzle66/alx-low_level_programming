@@ -1,4 +1,4 @@
-mod u+x *
+chmod u+x *
 echo This is my readme>README.md
 git add .
 git commit -m 'done'
